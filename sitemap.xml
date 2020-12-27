@@ -3,61 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dataprofessor.github.io/Ken_Portfolio_2/</loc>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/</loc>
+    <lastmod>2020-11-11T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/post/project-2/</loc>
+    <lastmod>2020-11-11T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/post/project-3/</loc>
     <lastmod>2020-05-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dataprofessor.github.io/Ken_Portfolio_2/post/project-1/</loc>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/post/project-4/</loc>
     <lastmod>2020-05-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dataprofessor.github.io/Ken_Portfolio_2/tags/scene/</loc>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/post/project-5/</loc>
     <lastmod>2020-05-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dataprofessor.github.io/Ken_Portfolio_2/tags/</loc>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/post/project-6/</loc>
     <lastmod>2020-05-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dataprofessor.github.io/Ken_Portfolio_2/post/project-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/tags/scene/</loc>
+    <lastmod>2020-05-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dataprofessor.github.io/Ken_Portfolio_2/post/</loc>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/tags/</loc>
+    <lastmod>2020-05-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/post/project-1/</loc>
+    <lastmod>2019-12-23T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dataprofessor.github.io/Ken_Portfolio_2/about/</loc>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dataprofessor.github.io/Ken_Portfolio_2/categories/</loc>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://dataprofessor.github.io/Ken_Portfolio_2/contact/</loc>
+    <loc>https://yuval-ash1.github.io/Yuval_Portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
